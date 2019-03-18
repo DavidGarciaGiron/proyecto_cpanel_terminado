@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c63457be-6d8e-43d3-a446-e3edb5e9413b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.phpintel/0bc848514cb4fbc3958556530a26c5d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/1c0f7be83f29c7fb140bf3b7c65e8dc6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/32ad06767f7ef81188809de975543ad8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/3898a1e6e403f0a8e5b2e83f33697707" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/449037b1b198128be77fda24e2595bc4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/4a0539af120102184c900e0b33a2700e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/57b09f3ec9f5ea945c7c8730f9e8c161" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/696979dc6a73ae134fef9dc43011bafe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/a47c35b6790cf0deaa52c1a395cc780e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/b098fad00fb9e5272f042eb13c118903" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/bdd8be74d21c0f9a684f47364b70ab81" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/d30e0197ec434b20e66cd727cde4f5db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/dd1ad424f4ae9b448d260e8470c0366e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/dfecd1306716f3af9eb60bcce57172fb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/e65c28d797314e5d19778d1c8d314f75" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/fa1eba8ccaddd319e4556a7315ef14b9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.phpintel/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datos/Conexion.php" beforeDir="false" afterPath="$PROJECT_DIR$/datos/Conexion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login-php.sql" beforeDir="false" afterPath="$PROJECT_DIR$/login-php.sql" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login-php.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/datos/Conexion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/login-php.sql" />
+        <option value="$PROJECT_DIR$/datos/Conexion.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Login-y-Registro-con-PHP---PDO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Login-y-Registro-con-PHP---PDO" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c63457be-6d8e-43d3-a446-e3edb5e9413b" name="Default Changelist" comment="" />
+      <created>1552846661329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552846661329</updated>
+      <workItem from="1552846664919" duration="40000" />
+      <workItem from="1552846754216" duration="2509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2549000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-34" width="1368" height="723" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3288364" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/login-php.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="60" column="2" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datos/Conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
